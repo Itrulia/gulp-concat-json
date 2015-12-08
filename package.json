@@ -1,7 +1,7 @@
 
 {
   "name": "gulp-concat-json",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A plugin for Gulp to combine several JSON files",
   "keywords": [
     "gulpplugin",
@@ -10,9 +10,9 @@
   "author": {
     "name": "Karl Merkli",
     "email": "info@karl-merkli.ch",
-    "url": "http://itrulia.io"
+    "url": "https://github.com/Itrulia/gulp-concat-json"
   },
-  "repository": "itruli/gulp-concat-json",
+  "repository": "itrulia/gulp-concat-json",
   "dependencies": {
     "through": "*",
     "gulp-util": "~2.2.0"
